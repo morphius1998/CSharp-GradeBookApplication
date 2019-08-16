@@ -138,6 +138,7 @@ namespace GradeBook.GradeBooks
                 gradePoint++;
             }
 
+
             return gradePoint;
         }
 
